@@ -1,0 +1,14 @@
+{
+	"numero":1,
+	"dataAbertura": "02/02/2012",
+	"dataFechamento": "06/06/2018",
+	"status": "ativo",
+	"descricao": "Esse é um teste",
+	
+	"Fila":{
+		"id": 1,
+		"nome": "Novos Produtos"
+	
+	}
+	
+}
